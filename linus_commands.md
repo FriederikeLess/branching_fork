@@ -88,7 +88,7 @@ Use the remove command "rm" in order to remove any file within the current direc
 
 ## Finding more detailed explanations about the terminal
 
-A comprehensive introduction to the linux command line is the book ["The Linux command line" by William E. Schotts, Jr.](lswiki.lib.sun.ac.za/images/c/ca/TLCL-13.07.pdf)
+A comprehensive introduction to the linux command line is the book ["The Linux command line" by William E. Schotts, Jr.](https://www.amazon.de/-/en/William-Shotts/dp/1593279523)
 
 ![The Linux Command Line](command_line.png)
 
